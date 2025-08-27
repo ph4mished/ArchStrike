@@ -3,7 +3,7 @@
 buildarch=220
 
 pkgname=hashpeek
-pkgver=0.2.3
+pkgver=0.2.2
 pkgrel=1
 pkgdesc='A fast Go-based CLI tool to identify, extract, and classify hash types from structured data/files with JSON/CSV output and Hashcat/John formatting details (a hash identifier).'
 arch=('armv6h' 'armv7h' 'x86_64' 'i686' 'aarch64')
